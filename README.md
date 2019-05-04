@@ -8,7 +8,7 @@ ${Quip about the wine style.}
 
 ### Bootstrapping
 #### Part 1: Downloading the project
-1. Share your Github username with Jake & Aliana so they can add you to the Ruby & Rosé project
+1. Share your Github username with ${course leaders} so they can add you to the Ruby & Rosé project
 2. Clone (download) this repository by opening up the Terminal application and running this line:
 `git clone https://github.com/rubyandrose/${wine style}.git`
 You may be asked to install 'xcode command line tools' first - do so if prompted, then return to complete this step. You've just downloaded a personal copy
